@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">google sheet</string>
+    <string name="Look_Qr_Code">Look Qr Code</string>
+    <string name="Genereted_Qr_Code">Generate Qr Code</string>
+    <string name="discription">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede.</string>
+
+</resources>
